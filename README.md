@@ -12,7 +12,7 @@ O desafio está dividido em três níveis: Novato, Aventureiro e Mestre, com cad
 ### 🚨 Atenção: 
 O nível Novato do desafio é focado apenas no cadastro das cartas, utilizando as funções scanf para ler os dados e printf para exibi-los.
 
-## 🎮 Nível Novato
+### 🎮 Nível Novato
 
 No nível Novato, você iniciará criando o sistema básico do jogo Super Trunfo com o tema "Países". As cartas serão divididas por estados, cada um com quatro cidades. 
 
